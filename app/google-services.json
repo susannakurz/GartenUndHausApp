@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "822559928024",
+    "firebase_url": "https://gartenundhausappdb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gartenundhausappdb",
+    "storage_bucket": "gartenundhausappdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822559928024:android:5ad2bdd7eb341af629f1ad",
+        "android_client_info": {
+          "package_name": "com.example.gartenundhausapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822559928024-m2r0bt1fb0uog1g6kirpermb01vv06cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD17nPYHMG56YzdaB1iDkqMjLad4yX4Avg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822559928024-m2r0bt1fb0uog1g6kirpermb01vv06cc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
